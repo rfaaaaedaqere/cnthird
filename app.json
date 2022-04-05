@@ -1,6 +1,6 @@
 {
-    "name": "thirdv2ray",
-    "description": "v2ray websocket proxy on thirdv2ray",
+    "name": "todayverygood",
+    "description": "v2ray websocket proxy on todayverygood",
     "keywords": ["v2ray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
