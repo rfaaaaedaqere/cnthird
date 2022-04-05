@@ -1,6 +1,6 @@
 {
-    "name": "newthird",
-    "description": "v2ray websocket proxy on newthird",
+    "name": "cthird",
+    "description": "v2ray websocket proxy on cthird",
     "keywords": ["v2ray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
